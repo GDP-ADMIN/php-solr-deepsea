@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2
+END
+config.w32
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/config.w32
+END
+php_solr_exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_exception.c
+END
+solr_functions_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_functions_client.c
+END
+solr_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_string.c
+END
+solr_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_types.h
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/package.xml
+END
+solr_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_string.h
+END
+php_solr_query.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_query.c
+END
+php_solr_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_object.c
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/CREDITS
+END
+solr_functions_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_functions_debug.c
+END
+solr_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_constants.h
+END
+README.SUBMITTING_CONTRIBUTIONS
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/README.SUBMITTING_CONTRIBUTIONS
+END
+solr.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr.dsp
+END
+php_solr_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_client.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/TODO
+END
+solr_functions_response.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_functions_response.c
+END
+README.MEMORY_ALLOCATION
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/README.MEMORY_ALLOCATION
+END
+solr_functions_helpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_functions_helpers.c
+END
+php_solr_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_version.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/LICENSE
+END
+config.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/config.m4
+END
+php_solr_input_document.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_input_document.c
+END
+php_solr_bc_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_bc_macros.h
+END
+php_solr_response.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_response.c
+END
+solr_functions_document.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_functions_document.c
+END
+php_solr_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_utils.c
+END
+README.CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/README.CONTRIBUTORS
+END
+solr_functions_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_functions_params.c
+END
+README.INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/README.INSTALLATION
+END
+README.ABOUT_SOLR_EXTENSION
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/README.ABOUT_SOLR_EXTENSION
+END
+php_solr_document.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_document.c
+END
+README.RELEASE_CHECKLIST
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/README.RELEASE_CHECKLIST
+END
+php_solr_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_api.h
+END
+php_solr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr.c
+END
+solr_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/solr_macros.h
+END
+php_solr_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr_params.c
+END
+php_solr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/php_solr.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/!svn/ver/320135/pecl/solr/tags/release_1_0_2/.cvsignore
+END
